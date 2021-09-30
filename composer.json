@@ -1,0 +1,18 @@
+{
+    "name": "xinghuasun/testa",
+    "description": "this is a library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sunxinghua",
+            "email": "136506125@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "xinghuasun\\testA\\": "src/"
+        }
+    }
+}
